@@ -1,0 +1,13 @@
+The algorithms from my analysis ranked from best to worst are the following:
+Merge Sort
+Heap Sort
+BinarySearch Insertion Sort
+Regular Insertion Sort
+Comparable Insertion Sort
+
+This ranking is based off the information and test results. MergeSort continued to show
+fastest execution time in the sorting. Heap Sort was not far from MergSort in execution time but did start to lag behind
+in the 2^16 sorting execution. BinarySearch was the fastest of the insertion sort algorithms based on its ability to find elements quicker
+than regular insertion sort, optimizing the algorithm. Regular Insertion Sort was consistent in its results and had a much larger lead in 
+run time compared to Comparable Insertion sort for an array size of 2^16. Comparable was the slowest due to its reliance on the built in compareTo 
+method. 

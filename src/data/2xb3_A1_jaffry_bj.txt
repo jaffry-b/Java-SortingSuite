@@ -1,0 +1,5 @@
+SFWR ENG 2XB3
+Bilal Raza Jaffry
+400067222
+02/22/2018 "I attest to the fact that the work being submitted is my own individual	work "
+In all sorting files there are header comments with citations of code refrences used for help during the assignment, They are in IEEE format. These comments give a overview of what the resources were used for within the class.

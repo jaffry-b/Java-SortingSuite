@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"gen","l":"Gen"},{"p":"sort","l":"Heap"},{"p":"sort","l":"Insertion"},{"p":"sort","l":"Job"},{"p":"sort","l":"Merge"},{"p":"sort","l":"SortTest"},{"p":"sort","l":"Stopwatch"},{"p":"sort","l":"testHeapSort"},{"p":"sort","l":"testInsertBinary"},{"p":"sort","l":"testInsertComparable"},{"p":"sort","l":"testMerge"},{"p":"sort","l":"testSortInsertion"}]
